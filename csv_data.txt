@@ -1,0 +1,5 @@
+name,age,university,degree
+Ali,23,Maseno,Information Technology
+Farah,25,MKU,Business
+Maryam,21,UN,Human Resource
+Kudiin,26,Kirinyaga,Clinical Medicine

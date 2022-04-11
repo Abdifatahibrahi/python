@@ -1,0 +1,4 @@
+Manchester United=Manchester=Uk
+RealMadrid=Madrid=Spain
+Juventus=Turin=Italy
+
